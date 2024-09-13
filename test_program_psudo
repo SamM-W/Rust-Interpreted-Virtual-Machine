@@ -1,0 +1,4 @@
+program
+syscall 0000 0002 0x01 0x00
+data
+Hello World!0
